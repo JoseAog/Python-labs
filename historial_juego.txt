@@ -1,0 +1,3 @@
+Intentos: [5] -> Ganado en 1 intentos
+ Intentos: [1, 3, 9, 6] -> Ganado en 4 intentos
+ 
