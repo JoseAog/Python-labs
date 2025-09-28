@@ -1,0 +1,25 @@
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de entorno/virtualenv
+.env
+.venv/
+env/
+venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos personales/sensibles
+persona.json
+*.txt
+*.csv
+*.json
