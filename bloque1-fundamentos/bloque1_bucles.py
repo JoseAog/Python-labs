@@ -8,3 +8,4 @@ contador = 0
 while contador < 5:
     print(f"While contador: {contador}")
     contador += 1
+# comentario de prueba feature/ejemplo
